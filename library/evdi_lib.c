@@ -2,7 +2,7 @@
 // Copyright (c) 2015 - 2020 DisplayLink (UK) Ltd.
 
 #include <stddef.h>
-#include <stdint.h>
+#include <stdint-gcc.h>
 #include <libdrm/drm.h>
 #ifndef __user
 #  define __user
